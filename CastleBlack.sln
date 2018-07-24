@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastleBlack", "CastleBlack\CastleBlack.csproj", "{C66D6BCA-CD59-4667-AB5A-317864F56E54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastleBlack.Tests", "CastleBlack.Tests\CastleBlack.Tests.csproj", "{C95B5E3A-1F93-416D-AC14-6A26AF3E9F84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CastleBlack.Application", "CastleBlack.Application\CastleBlack.Application.csproj", "{9C5E1F3F-8A81-4F9F-A2AF-11CC19A3A891}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C66D6BCA-CD59-4667-AB5A-317864F56E54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C66D6BCA-CD59-4667-AB5A-317864F56E54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C66D6BCA-CD59-4667-AB5A-317864F56E54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C95B5E3A-1F93-416D-AC14-6A26AF3E9F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95B5E3A-1F93-416D-AC14-6A26AF3E9F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95B5E3A-1F93-416D-AC14-6A26AF3E9F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95B5E3A-1F93-416D-AC14-6A26AF3E9F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C5E1F3F-8A81-4F9F-A2AF-11CC19A3A891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5E1F3F-8A81-4F9F-A2AF-11CC19A3A891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5E1F3F-8A81-4F9F-A2AF-11CC19A3A891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5E1F3F-8A81-4F9F-A2AF-11CC19A3A891}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
